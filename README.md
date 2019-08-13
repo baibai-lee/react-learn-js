@@ -1,3 +1,17 @@
+# react-learn-js
+
+项目是自己在学习react时的练习项目，主要实现了一个todolist的功能，能够新增、删除、设置完成，取消完成，浏览器缓存等
+
+### 目录结构
+
+public --- 脚手架生成的静态文件
+
+components --- 刚开始学习时，练习使用的组件文件
+
+exercise --- todolist的主要文件
+
+##### 以下为脚手架生成的项目相关描述
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
